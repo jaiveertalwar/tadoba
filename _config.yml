@@ -17,3 +17,5 @@ social_urls:
   instagram: "https://www.instagram.com/"
   linkedin: "https://www.linkedin.com/"
   github: "https://github.com/jaiveertalwar"
+
+theme: jekyll-theme-slate
